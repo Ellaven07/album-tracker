@@ -3,7 +3,7 @@
 Album Tracker is a React web app for searching music albums, previewing their tracks, and keeping a personal listening log with statuses, ratings, and notes. It can play full albums through Deezer's embeddable player and suggest new albums with LLM-powered recommendations based on your saved albums and ratings.
 
 **Screenshot:** _add a screenshot here_
-**Live link:** _add your Vercel link here_
+**Live link:** (https://album-tracker-git-main-anica-ella.vercel.app/)
 
 ## Features
 
